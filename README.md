@@ -1,7 +1,9 @@
 Intelligent Image Processing
+
 이 저장소는 지능형 영상처리 과목의 실습 내용을 담고 있습니다.
 
 실습 내용 요약
+
 이미지 크기 조정(Image Resizing): 원본 이미지와 합성할 이미지를 동일한 크기로 조정합니다. MATLAB의 imresize 함수를 사용하여 선형 보간(bilinear interpolation) 방법을 적용했습니다.
 
 이미지 대비 조정(Image Contrast Adjustment): 이미지의 밝기와 대비를 조정하여 이미지를 더 선명하게 만듭니다. a*imgA+b와 같은 선형 변환을 사용하여 대비를 조절합니다.
